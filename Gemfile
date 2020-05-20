@@ -62,3 +62,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'twitter-bootstrap-rails'
 gem 'devise'
+gem 'jimmi_view_tool', git: 'https://github.com/mohgamalmoh/copyrights_ruby_gem', branch: 'master'
